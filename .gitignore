@@ -1,0 +1,8 @@
+build/
+bin/
+.DS_Store
+.vscode/
+*.pcd
+*.ply
+!data/sample.pcd
+assets/*.mp4
