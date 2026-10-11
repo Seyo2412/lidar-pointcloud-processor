@@ -24,6 +24,7 @@
           │
           ▼
  [Interactive 3D Viewer]     ──> Real-time OpenGL orbit visualizer with sensor grid
+```
 
 ## Features
 
